@@ -1,9 +1,6 @@
 # Picbit
 Picbit is a javascript image processing experiment. This can be used to give you some ideas on how to use the HTML 5 Canvas element to process images in real time and run basic filters.
 
-## Demo
-Online here: http://pmav.eu/stuff/picbit/
-
 ## TODO
 - [x] Random Button
 - [x] Redraw Button
